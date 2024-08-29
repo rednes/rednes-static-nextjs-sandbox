@@ -1,6 +1,5 @@
-import { Tabs, TabsList, TabsTrigger } from "@/components/ui/tabs";
+import { Tabs, TabsList, TabsTrigger } from "@/lib/shadcn/components/ui/tabs";
 import { TabsContent } from "@radix-ui/react-tabs";
-import Image from "next/image";
 
 export default function Home() {
   return (
