@@ -1,6 +1,6 @@
-# rednes-nextjs-sample
+# rednes-static-nextjs-sandbox
 
-https://rednes.github.io/rednes-nextjs-sample/
+https://rednes.github.io/rednes-static-nextjs-sandbox/
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
